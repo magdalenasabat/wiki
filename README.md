@@ -1,1 +1,1 @@
-See https://anne-urai.github.io/lab_wiki/ for the GitHub Pages wiki.
+See https://magdalenasabat.github.io/wiki/ for my GitHub Pages personal wiki.
