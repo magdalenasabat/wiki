@@ -5,13 +5,16 @@ rank: 1
 ---
 
 ### Welcome!
-This is the lab wiki. For more info about our team, research, blog and publications see [anneurai.net](https://anneurai.net).
+This is the lab wiki. For more info about our team, research, blog, and publications see [magdalenasabat.github.io/](https://magdalenasabat.github.io/)
 
-This wiki and lab manual is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy) and [Michael Beyer](https://docs.google.com/document/d/1Y1wzFVdp-FCoGM47okaW5eYdOOfpgXD5nM9Q7DpwAMo/edit). It's a continuous work in progress.
+This wiki is mostly inspired by [Anne Urai's lab wiki ](https://anne-urai.github.io/lab_wiki/) in turn is inspired by similar documents from [Mariam Aly](https://osf.io/mdh87/wiki/home/), [Trina MacMahon](https://d1uqjtzsuwlnsf.cloudfront.net/wp-content/uploads/sites/163/2016/11/McMahon_UW_Compact_Example.pdf), [Bray Voytek](https://voyteklab.com/philosophy) and [Michael Beyer](https://docs.google.com/document/d/1Y1wzFVdp-FCoGM47okaW5eYdOOfpgXD5nM9Q7DpwAMo/edit).
 
-### Interested in joining?
+### Interested in collaborating? Looking for a bachelor's or master's internship?
 
-If you're interested in doing a project with us, great! Check out the following before you begin:
+I'm affiliated with LNC and LSP at the Cognitive Science Department at Ecole Normale Superieure in Paris, France. If you're affiliated with a university in France and are looking for an L3, M1, or M2 internship please check out [proposals already posted on the department's website](https://cogmaster.ens.psl.eu/en/program/internships-14261) - these projects have guaranteed funding. If you're from outside France or you would like to propose a new project or explore some of [my ideas](https://magdalenasabat.github.io/lab_wiki/ProjectIdeas.html), we would need to work together on providing funding for the internship. 
+
+Before you apply, [please make sure our work styles and work vision in general are aligned](https://magdalenasabat.github.io/wiki/Vision.html) and get acquainted with my favorite work tools.
+
 - [our values](https://anne-urai.github.io/lab_wiki/Vision.html), including some expectation management.
 - [project ideas](https://anne-urai.github.io/lab_wiki/ProjectIdeas.html).
 
